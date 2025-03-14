@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Daniel Cortild
+    - name: Current Affiliation
+      value: University of Groningen (Netherlands)
     - name: Languages
-      value: English, German
+      value: English, French, Danish
 
 - title: Education
   type: time_table

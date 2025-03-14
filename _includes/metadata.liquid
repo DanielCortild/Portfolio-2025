@@ -28,6 +28,8 @@
   {% endif %}
   {% if page.url == '/blog/index.html' %}
     {{ page.title }} | {{ title }}
+  {% elsif page.nav_title != 'blank' and page.nav_title != null and page.url != '/' %}
+    {{ page.nav_title }} | {{ title }}
   {% elsif page.title != 'blank' and page.url != '/' %}
     {% if page.title == null or page.title == '' %}
       {{ page.date | date: '%Y' }} | {{ title }}

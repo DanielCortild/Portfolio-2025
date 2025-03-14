@@ -35,6 +35,13 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        <!-- Social -->
+        {% if page.profile.social %}
+          <div class="social">
+            <div class="contact-icons">{% include social.liquid %}</div>
+            {% comment %}<div class="contact-note">{{ site.contact_note }}</div>{% endcomment %}
+          </div>
+        {% endif %}
       </div>
     {% endif %}
 
@@ -42,8 +49,9 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
+      <hr />
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
