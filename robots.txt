@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://danielcortild.github.io/al-folio/sitemap.xml
+Sitemap: https://danielcortild.github.io//sitemap.xml

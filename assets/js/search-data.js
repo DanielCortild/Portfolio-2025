@@ -7,35 +7,35 @@ ninja.data = [{
     title: "",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/al-folio/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-code-repositories",
           title: "Code Repositories",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/repositories/";
+            window.location.href = "/repositories/";
           },
         },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "news-i-am-happy-to-share-i-will-be-spending-6-months-at-electricité-de-france-r-amp-amp-d-researching-on-global-optimization-techniques-and-their-application-in-the-energy-sector",
           title: 'I am happy to share I will be spending 6 months at Electricité...',
