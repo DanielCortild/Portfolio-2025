@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Daniel Cortild # the website title (if blank, full name will be used instead)
 first_name: Daniel
 middle_name: ""
 last_name: Cortild
 contact_note: Do not hesitate to contact me via email.
-description: Professional portfolio website of Daniel Cortild # the website description
+description: Professional website of Daniel Cortild # the website description
 footer_text:
 keywords: optimization, convex optimization, global optimization, fixed-point iterations # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
