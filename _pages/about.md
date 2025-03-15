@@ -19,4 +19,9 @@ announcements:
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 ---
-Welcome to my website! As a master student in mathematics, I have a passion for exploring and sharing the beauty of this field. Here you will find a collection of my publications and projects within mathematics, which I hope will inspire and enrich your own explorations.
+
+Hi, I'm Daniel!
+
+I am currently a MSc student in Applied Mathematics at the [University of Groningen](https://www.rug.nl/), member of the [Systems, Control and Optimization group](https://www.rug.nl/research/bernoulli/groups/sco) under the supervision of Juan Peypouquet, graduating in June 2025. I currently focus on stochastic gradient methods and their convergence properties. Previously, I obtained a BSc in Mathematics from the [University of Groningen](https://www.rug.nl/), where I specialised in Numerical Analysis.  
+
+**Research Interests:** Convex Optimization, Global Optimization, Fixed-Point Iterations, Computer-Aided Proofs

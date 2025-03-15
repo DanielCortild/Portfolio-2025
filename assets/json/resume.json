@@ -1,23 +1,8 @@
 {
   "basics": {
     "name": "Daniel Cortild",
-    "image": "",
-    "email": "d.cortild@rug.nl",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "affiliation": "University of Groningen",
+    "email": "d.cortild@rug.nl"
   },
   "education": [
     {
@@ -26,9 +11,9 @@
       "startDate": "2023",
       "endDate": "2025",
       "courses": [
-        "Specialization in Optimization",
-        "Internship at EDF R&D on Global Optimization, supervised by Claire Deplancke, Nadia Oudjane & Juan Peypouquet",
-        "Thesis on Computer-Aided Proofs for Stochastic Gradient Descent, supervised by Juan Peypouquet"
+        "Specialization in Numerical Mathematics & Optimization.",
+        "Included a 6-month internship at <i>EDF R&D</i> on Global Optimization, supervised by Claire Deplancke & Nadia Oudjane, available <a href='https://fse.studenttheses.ub.rug.nl/34295/'>here</a>.",
+        "Thesis on Computer-Aided Proofs for Stochastic Gradient Descent without Bounded Variance Assumption, supervised by Juan Peypouquet."
       ]
     },
     {
@@ -37,30 +22,29 @@
       "startDate": "2020",
       "endDate": "2023",
       "courses": [
-        "Minor in Numerical Analysis & Computer Science",
-        "Thesis on Fixed-Point Iterations, supervised by Juan Peypouquet"
+        "Minor in Numerical Analysis & Computer Science.",
+        "Thesis on Fixed-Point Iterations, supervised by Juan Peypouquet, available <a href='https://fse.studenttheses.ub.rug.nl/29721/'>here</a>."
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Teaching Assistant of the Year",
+      "date": "Jun 2023",
+      "awarder": "Programme Commitee Mathematics & Applied Mathematics (University of Groningen)",
+      "summary": "Each year, a single teaching assistant from the studies of Mathematics and Applied Mathematics gets voted \"Teaching Assistant of the Year\"."
+    },
+    {
+      "title": "Young Talent Incentive Award",
+      "date": "Nov 2021",
+      "awarder": "Koninklijke Hollandsche Maatschappij der Wetenschappen",
+      "summary": "Incentive Award for the best grades achieved in the first year at a Dutch institution for academic education."
+    },
+    {
+      "title": "Medal from the Belgian Royal Academy of Science",
+      "date": "Oct 2020",
+      "awarder": "Académie Royale de Belgique, Classe des Sciences",
+      "summary": "Price issued to students for outstanding achievements in Scientific Olympiads."
     }
   ]
 }
