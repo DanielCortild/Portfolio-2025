@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-code-repositories",
-          title: "Code Repositories",
+        },{id: "nav-talks",
+          title: "Talks",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/talks/";
           },
         },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
@@ -30,23 +30,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "news-i-am-happy-to-share-i-will-be-spending-6-months-at-electricité-de-france-r-amp-amp-d-researching-on-global-optimization-techniques-and-their-application-in-the-energy-sector",
           title: 'I am happy to share I will be spending 6 months at Electricité...',
           description: "",
-          section: "News",},{id: "news-i-will-be-presenting-our-work-on-global-optimization-at-the-pgmo-days-2024-in-november",
+          section: "News",},{id: "news-i-will-be-presenting-our-work-on-global-optimization-at-the-pgmo-days-2024-in-november-see-you-there",
           title: 'I will be presenting our work on global optimization at the PGMO Days...',
           description: "",
           section: "News",},{id: "news-our-latest-paper-global-optimization-through-high-resolution-sampling-is-available-as-a-preprint-on-arxiv",
           title: 'Our latest paper “Global Optimization through High-Resolution Sampling” is available as a preprint...',
           description: "",
-          section: "News",},{id: "news-our-paper-krasnoselskii-mann-iterations-inertia-perturbations-and-approximation-has-been-accepted-for-publication-in-journal-of-optimization-theory-and-applications-and-available-here",
+          section: "News",},{id: "news-our-paper-krasnoselskii-mann-iterations-inertia-perturbations-and-approximation-has-been-accepted-for-publication-in-journal-of-optimization-theory-and-applications-and-is-available-here",
           title: 'Our paper “Krasnoselskii–Mann Iterations: Inertia, Perturbations and Approximation” has been accepted for publication...',
           description: "",
           section: "News",},{id: "news-i-will-be-participating-in-the-benelux-meeting-on-systems-and-control-2025-in-march",
