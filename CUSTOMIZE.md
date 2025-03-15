@@ -68,7 +68,7 @@ Note that `posts` is also a collection, but it is a default collection created a
 
 ## Creating new projects
 
-You can create new projects by adding new Markdown files in the [\_projects](_projects/) directory. The easiest way to do this is to copy an existing project and modify it.
+You can create new projects by adding new Markdown files in the \_projects directory. The easiest way to do this is to copy an existing project and modify it.
 
 ## Adding some news
 
@@ -78,7 +78,7 @@ You can add news in the about page by adding new Markdown files in the [\_news](
 
 This Jekyll theme implements [collections](https://jekyllrb.com/docs/collections/) to let you break up your work into categories. The theme comes with three default collections: `news`, `projects`, and `books`. Items from the `news` collection are automatically displayed on the home page, while items from the `projects` collection are displayed on a responsive grid on projects page and items from the `books` collection are displayed on its own `bookshelf` page inside `submenus`.
 
-You can easily create your own collections, apps, short stories, courses, or whatever your creative work is. To do this, edit the collections in the [\_config.yml](_config.yml) file, create a corresponding folder, and create a landing page for your collection, similar to [\_pages/projects.md](_pages/projects.md).
+You can easily create your own collections, apps, short stories, courses, or whatever your creative work is. To do this, edit the collections in the [\_config.yml](_config.yml) file, create a corresponding folder, and create a landing page for your collection, similar to \_pages/projects.md.
 
 If you wish to create a collection with support for categories and tags, like the blog posts, you just need to add this collection to the `jekyll-archives` section of your [\_config.yml](_config.yml) file. You can check how this is done with the `books` collection. For more information about customizing the archives section or creating your own archives page, check the [jekyll-archives-v2 documentation](https://george-gca.github.io/jekyll-archives-v2/).
 
@@ -179,9 +179,9 @@ Here is a list of the main components that you may want to delete, and how to do
 
 To remove the blog, you have to:
 
-- delete [\_posts](_posts/) directory
-- delete blog page [\_pages/blog.md](_pages/blog.md)
-- remove reference to blog page in our [\_pages/dropdown.md](_pages/dropdown.md)
+- delete \_posts directory
+- delete blog page \_pages/blog.md
+- remove reference to blog page in our \_pages/dropdown.md
 - remove the `latest_posts` part in [\_pages/about.md](_pages/about.md)
 - remove the `Blog` section in the [\_config.yml](_config.yml) file and the related parts, like the `jekyll-archives`
 
