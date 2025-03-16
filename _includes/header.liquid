@@ -1,6 +1,10 @@
 <header>
   <!-- Nav Bar -->
-  <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
+  <nav
+    id="navbar"
+    class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}"
+    role="navigation"
+  >
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
@@ -109,9 +113,9 @@
                   {%- endif %}
                   <a class="nav-link" href="{{ url | relative_url }}">
                     {%- if p.nav_title != null && p.nav_title != 'blank' -%}
-                        {{- p.nav_title -}}
+                      {{- p.nav_title -}}
                     {%- else -%}
-                        {{- p.title -}}
+                      {{- p.title -}}
                     {%- endif -%}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
@@ -125,7 +129,7 @@
             <!-- Search -->
             <li class="nav-item">
               {% comment %}<button id="search-toggle" title="Search" onclick="openSearchModal()">{% endcomment %}
-                {% comment %}<span class="nav-link">ctrl k <i class="ti ti-search"></i></span>{% endcomment %}
+              {% comment %}<span class="nav-link">ctrl k <i class="ti ti-search"></i></span>{% endcomment %}
               {% comment %}</button>{% endcomment %}
             </li>
           {% endif %}
