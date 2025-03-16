@@ -583,6 +583,20 @@ footer.sticky-bottom {
   }
 }
 
+@media only screen and (max-width: 767px) {
+  .name-title {
+    margin-top: -30px;
+    text-align: center;
+  }
+  .main-contact {
+    margin-bottom: 20px;
+  }
+
+  .thumbnail {
+    display: none;
+  }
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
