@@ -64,6 +64,9 @@ ninja.data = [{
           section: "News",},{id: "news-️-i-will-be-participating-and-giving-a-talk-in-the-europt-2025-in-end-june-start-july-see-you-in-southampton-united-kingdom",
           title: '🗣️ I will be participating and giving a talk in the EUROPT 2025...',
           description: "",
+          section: "News",},{id: "news-i-am-happy-to-announce-my-latest-preprint-new-tight-bounds-for-sgd-without-variance-assumption-a-computer-aided-lyapunov-analysis-is-available-on-arxiv",
+          title: '📝 I am happy to announce my latest preprint “New Tight Bounds for...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
