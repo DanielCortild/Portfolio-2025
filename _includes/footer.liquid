@@ -1,8 +1,8 @@
 {% capture footer_contents %}
-  &copy; {{ site.time | date: '%Y' }}, made with <i class="fa-solid fa-heart"></i> by
-  {{ site.first_name }}
-  {{ site.middle_name }}
-  {{ site.last_name }}.
+  {% comment %}&copy; {{ site.time | date: '%Y' }}, made with <i class="fa-solid fa-heart"></i> by{% endcomment %}
+  {% comment %}{{ site.first_name }}{% endcomment %}
+  {% comment %}{{ site.middle_name }}{% endcomment %}
+  {% comment %}{{ site.last_name }}.{% endcomment %}
   {{site.footer_text}}
   {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
