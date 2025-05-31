@@ -20,7 +20,7 @@ providing feedback to students. Below is a list of courses I have been involved 
 - <b>
   2023-2024</b>: [Introduction to Optimization](https://ocasys.rug.nl/2023-2024/catalog/course/WBMA054-05), [Multivariable Analysis](https://ocasys.rug.nl/2023-2024/catalog/course/WBMA022-05), [Calculus 2](https://ocasys.rug.nl/2023-2024/catalog/course/WBMA029-05)
 - <b>2022-2023
-  </b>: [Calculus 1](https://ocasys.rug.nl/2022-2023/catalog/course/WBMA003-05), [Calculus for Computing Science](https://ocasys.rug.nl/2022-2023/catalog/course/WBCS036-05), [Computer-Aided Problem Solving](https://ocasys.rug.nl/2022-2023/catalog/course/WBMA030-05), [Numerical Mathematics](https://ocasys.rug.nl/2022-2023/catalog/course/WBMA045-05), [Probability Theory](https://ocasys.rug.nl/2022-2023/catalog/course/WBMA046-05)
+  </b>: [Introduction to Graph Theory](https://ocasys.rug.nl/2022-2023/catalog/course/WBMA052-05), [Calculus 2](https://ocasys.rug.nl/2022-2023/catalog/course/WBMA029-05), [Probability Theory](https://ocasys.rug.nl/2022-2023/catalog/course/WBMA046-05), [Numerical Mathematics](https://ocasys.rug.nl/2022-2023/catalog/course/WBMA045-05), [Probability Theory](https://ocasys.rug.nl/2022-2023/catalog/course/WBMA046-05)
 - <b>2021-2022
   </b>: [Calculus 1](https://ocasys.rug.nl/2021-2022/catalog/course/WBMA003-05), [Calculus for Computing Science](https://ocasys.rug.nl/2021-2022/catalog/course/WBCS036-05), [Computer-Aided Problem Solving](https://ocasys.rug.nl/2021-2022/catalog/course/WBMA030-05), [Numerical Mathematics](https://ocasys.rug.nl/2021-2022/catalog/course/WBMA045-05)
 
