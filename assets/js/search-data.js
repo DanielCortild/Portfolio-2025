@@ -67,6 +67,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-happy-to-announce-my-latest-preprint-new-tight-bounds-for-sgd-without-variance-assumption-a-computer-aided-lyapunov-analysis-is-available-on-arxiv",
           title: '📝 I am happy to announce my latest preprint “New Tight Bounds for...',
           description: "",
+          section: "News",},{id: "news-️-i-will-be-giving-a-talk-at-the-journées-franco-chiliennes-pour-l-optimisation-in-july-see-you-in-rouen-france",
+          title: '🗣️ I will be giving a talk at the Journées Franco-Chiliennes pour l’Optimisation...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
