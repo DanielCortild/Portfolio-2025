@@ -16,7 +16,7 @@ The following is a list of my most recent and upcoming talks and presentations:
 
 - **22nd Conference on Advanced in Continuous Optimization (EUROPT)**, Southampton, UK. June 2025.
 
-- **Dynamics, Optimization and Control at Bernoulli Institute**, Groningen, Netherlands. June 2025. [[Abstract](https://drive.google.com/file/d/19PC7yCJAg-pzsNJxz3P6uL0ZHqhNr8AT/view)]
+- **Dynamics, Optimization and Control at Bernoulli Institute**, Groningen, Netherlands. June 2025. [[Abstract](https://drive.google.com/file/d/19PC7yCJAg-pzsNJxz3P6uL0ZHqhNr8AT/view), [Slides](/assets/pdf/presentations/2025_obi.pdf)]
 
 - **Benelux Meeting on Systems and Control 2025**, Egmond aan Zee, Netherlands. March 2025. [[Abstract](https://beneluxmeeting.nl/2025/uploads/papers/boa.pdf#page=97), [Slides](/assets/pdf/presentations/2025_benelux.pdf)]
 
