@@ -13,7 +13,13 @@ nav_order: 4
 ### Teaching Assistant at University of Groningen
 
 As a teaching assistant, our main responsibilities include preparing and giving tutorials, grading assignments, and
-providing feedback to students. Below is a list of courses I have been involved in:
+providing feedback to students.
+
+I was particularly involved in the course "Introduction to Optimization", where I co-wrote the lecture notes.
+
+- _Introduction to Optimization_, 2024-2025 [[Lecture Notes](/assets/pdf/teaching/2024_optim.pdf)]
+
+Below is a complete list of courses I have been involved in:
 
 - <b>
   2024-2025</b>: [Introduction to Optimization](https://ocasys.rug.nl/2024-2025/catalog/course/WBMA054-05), [Calculus 2](https://ocasys.rug.nl/2024-2025/catalog/course/WBMA029-05), [Calculus 1 for Computing Science](https://ocasys.rug.nl/2024-2025/catalog/course/WBCS055-05), [Algorithmic Programming](https://ocasys.rug.nl/2024-2025/catalog/course/WBCS045-05)
