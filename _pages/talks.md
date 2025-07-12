@@ -12,7 +12,7 @@ nav_order: 3
 
 The following is a list of my most recent and upcoming talks and presentations:
 
-- **10èmes Journées Franco-Chiliennes pour l'Optimisation (JFCO)**, Rouen, France. July 2025. [[Abstract](https://jfco25.sciencesconf.org/data/program/Cortild_Ketels_JFCO_Abstract.pdf), [Slides](/assests/pdf/presentations/2025_jfco.pdf)]
+- **10èmes Journées Franco-Chiliennes pour l'Optimisation (JFCO)**, Rouen, France. July 2025. [[Abstract](https://jfco25.sciencesconf.org/data/program/Cortild_Ketels_JFCO_Abstract.pdf), [Slides](/assets/pdf/presentations/2025_jfco.pdf)]
 
 - **22nd Conference on Advanced in Continuous Optimization (EUROPT)**, Southampton, UK. June 2025. [[Slides](/assets/pdf/presentations/2025_europt.pdf)]
 
