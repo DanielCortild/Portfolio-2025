@@ -70,6 +70,12 @@ ninja.data = [{
           section: "News",},{id: "news-️-i-will-be-giving-a-talk-at-the-journées-franco-chiliennes-pour-l-optimisation-in-july-see-you-in-rouen-france",
           title: '🗣️ I will be giving a talk at the Journées Franco-Chiliennes pour l’Optimisation...',
           description: "",
+          section: "News",},{id: "news-️-i-will-be-presenting-at-the-pgmo-days-2025-in-november-see-you-in-paris-france",
+          title: '🗣️ I will be presenting at the PGMO Days 2025 in November. See...',
+          description: "",
+          section: "News",},{id: "news-our-paper-global-optimization-algorithm-through-high-resolution-sampling-has-been-accepted-for-publication-in-transactions-on-machine-learning-research-and-is-available-here",
+          title: '📝 Our paper “Global Optimization Algorithm through High-Resolution Sampling” has been accepted for...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
