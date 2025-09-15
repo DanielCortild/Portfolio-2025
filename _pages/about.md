@@ -22,11 +22,14 @@ announcements:
 
 Hi, I'm Daniel!
 
-I am currently a MSc student in Applied Mathematics at the [University of Groningen](https://www.rug.nl/), member of
+I am an incoming DPhil student at the [Mathematical Institute](https://www.maths.ox.ac.uk/) of
+the [University of Oxford](https://www.ox.ac.uk/), starting in October 2024, under
+the supervision of [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis).
+
+Previously, I obtained a BSc in Mathematics and a MSc in Applied Mathematics from
+the [University of Groningen](https://www.rug.nl/), where I was part of
 the [Systems, Control and Optimization group](https://www.rug.nl/research/bernoulli/groups/sco) under the supervision of
-[Juan Peypouquet](https://sites.google.com/rug.nl/peypouquet/home), graduating in June 2025.
+[Juan Peypouquet](https://sites.google.com/rug.nl/peypouquet/home).
 
-Previously, I obtained a BSc in Mathematics from the [University of Groningen](https://www.rug.nl/), where I
-specialised in Numerical Analysis.
-
-**Research Interests:** Convex Optimization, Global Optimization, Fixed-Point Iterations, Computer-Aided Proofs
+**Research Interests:** Convex Optimization, Global Optimization, Fixed-Point Iterations, Computer-Aided Proofs,
+Stochastic Optimization, Hierarchical Optimization
