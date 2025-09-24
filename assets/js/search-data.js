@@ -118,4 +118,11 @@ ninja.data = [{
         handler: () => {
           window.open("https://www.researchgate.net/profile/Daniel-Cortild-2/", "_blank");
         },
+      },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=58871469400", "_blank");
+        },
       },];
