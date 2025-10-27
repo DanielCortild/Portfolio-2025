@@ -76,12 +76,15 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-global-optimization-algorithm-through-high-resolution-sampling-has-been-accepted-for-publication-in-transactions-on-machine-learning-research-and-is-available-here",
           title: '📝 Our paper “Global Optimization Algorithm through High-Resolution Sampling” has been accepted for...',
           description: "",
+          section: "News",},{id: "news-i-am-happy-to-announce-i-have-started-a-new-position-as-dphil-student-at-the-university-of-oxford-in-the-mathematical-institute-under-the-supervision-of-prof-coralia-cartis",
+          title: '🎓 I am happy to announce I have started a new position as...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64.%63%6F%72%74%69%6C%64@%72%75%67.%6E%6C", "_blank");
+          window.open("mailto:%64%61%6E%69%65%6C.%63%6F%72%74%69%6C%64@%6D%61%74%68%73.%6F%78.%61%63.%75%6B", "_blank");
         },
       },{
         id: 'social-github',
