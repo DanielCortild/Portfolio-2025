@@ -1,10 +1,20 @@
 {
   "basics": {
     "name": "Daniel Cortild",
-    "affiliation": "University of Groningen",
-    "email": "d.cortild@rug.nl"
+    "affiliation": "University of Oxford",
+    "email": "daniel.cortild@maths.ox.ac.uk"
   },
   "education": [
+    {
+      "institution": "University of Oxford, United Kingdom",
+      "studyType": "DPhil in Mathematics",
+      "startDate": "2025",
+      "endDate": "2029",
+      "courses": [
+        "Member of the Numerical Analysis and the Data Science groups at the Mathematical Institute.",
+        "Thesis supervised by Coralia Cartis."
+      ]
+    },
     {
       "institution": "University of Groningen, Netherlands",
       "studyType": "MSc in Applied Mathematics",

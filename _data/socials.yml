@@ -2,12 +2,13 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
-email: d.cortild@rug.nl # your email address
+email: daniel.cortild@maths.ox.ac.uk # your email address
 github_username: DanielCortild # your GitHub user name
 linkedin_username: daniel-cortild # your LinkedIn user name
 orcid_id: 0000-0002-3278-1716 # your ORCID ID
 scholar_userid: eKYnuOwAAAAJ # your Google Scholar ID
 research_gate_profile: Daniel-Cortild-2 # your profile on ResearchGate
+scopus_id: 58871469400 # your profile on Scopus
 
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
@@ -32,7 +33,6 @@ research_gate_profile: Daniel-Cortild-2 # your profile on ResearchGate
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # rss_icon: true # set to true to show the RSS icon
-scopus_id: 58871469400 # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
