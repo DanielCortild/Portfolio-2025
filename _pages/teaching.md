@@ -10,6 +10,14 @@ nav_order: 4
 
 <!-- _pages/teaching.md -->
 
+### Graduate Teaching Assistant at University of Oxford
+
+As a graduate teaching assistant, my responsibilities include marking assignments and helping out in the tutorials. I
+have been involved in the following courses:
+
+- <b>
+  2025-2026</b>: [Probability](https://courses.maths.ox.ac.uk/course/view.php?id=6018), [Integer Programming](https://courses.maths.ox.ac.uk/course/info.php?id=6068)
+
 ### Teaching Assistant at University of Groningen
 
 As a teaching assistant, our main responsibilities include preparing and giving tutorials, grading assignments, and
