@@ -82,8 +82,11 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-happy-to-announce-i-have-started-a-new-position-as-dphil-student-at-the-university-of-oxford-in-the-mathematical-institute-under-the-supervision-of-prof-coralia-cartis",
           title: '🎓 I am happy to announce I have started a new position as...',
           description: "",
-          section: "News",},{id: "news-️i-am-proud-to-announce-i-have-been-awarded-the-2025-cwi-best-thesis-in-applied-mathematics-award-for-my-project-on-global-optimization",
-          title: '🎖️I am proud to announce I have been awarded the 2025 CWI Best...',
+          section: "News",},{id: "news-️i-am-happy-to-announce-i-have-been-selected-for-the-2025-cwi-best-thesis-in-applied-mathematics-award-for-my-project-on-global-optimization",
+          title: '🎖️I am happy to announce I have been selected for the 2025 CWI...',
+          description: "",
+          section: "News",},{id: "news-️i-am-proud-to-announce-i-have-been-awarded-the-2025-khmw-jong-talent-graduation-award-for-mathematics-for-my-master-project-on-stochastic-gradient-descent",
+          title: '🎖️I am proud to announce I have been awarded the 2025 KHMW Jong...',
           description: "",
           section: "News",},{
         id: 'social-email',
