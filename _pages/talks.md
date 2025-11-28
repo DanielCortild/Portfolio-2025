@@ -12,6 +12,8 @@ nav_order: 3
 
 The following is a list of my most recent and upcoming talks and presentations:
 
+- **Programme Gaspard Monge pour l’Optimisation (PGMO) Days 2025**, Paris, France. November 2025. [[Abstract](https://fondation-hadamard.fr/media/filer_public/04/be/04be6743-a757-4e3c-a930-4aa80b538c89/pgmodays_2025_book_of_abstracts.pdf#page=64), [Slides](/assets/pdf/presentations/2025_pgmo.pdf)]
+
 - **10èmes Journées Franco-Chiliennes pour l'Optimisation (JFCO)**, Rouen, France. July 2025. [[Abstract](https://jfco25.sciencesconf.org/data/program/Cortild_Ketels_JFCO_Abstract.pdf), [Slides](/assets/pdf/presentations/2025_jfco.pdf)]
 
 - **22nd Conference on Advanced in Continuous Optimization (EUROPT)**, Southampton, UK. June 2025. [[Slides](/assets/pdf/presentations/2025_europt.pdf)]
