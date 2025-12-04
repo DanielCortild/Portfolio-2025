@@ -10,7 +10,7 @@ nav_order: 4
 
 <!-- _pages/teaching.md -->
 
-### Graduate Teaching Assistant at University of Oxford
+### University of Oxford
 
 As a graduate teaching assistant, my responsibilities include marking assignments and helping out in the tutorials. I
 have been involved in the following courses:
@@ -18,7 +18,7 @@ have been involved in the following courses:
 - <b>
   2025-2026</b>: [Probability](https://courses.maths.ox.ac.uk/course/view.php?id=6018), [Integer Programming](https://courses.maths.ox.ac.uk/course/info.php?id=6068)
 
-### Teaching Assistant at University of Groningen
+### University of Groningen
 
 As a teaching assistant, our main responsibilities include preparing and giving tutorials, grading assignments, and
 providing feedback to students.
@@ -38,7 +38,7 @@ Below is a complete list of courses I have been involved in:
 - <b>2021-2022
   </b>: [Calculus 1](https://ocasys.rug.nl/2021-2022/catalog/course/WBMA003-05), [Calculus for Computing Science](https://ocasys.rug.nl/2021-2022/catalog/course/WBCS036-05), [Computer-Aided Problem Solving](https://ocasys.rug.nl/2021-2022/catalog/course/WBMA030-05), [Numerical Mathematics](https://ocasys.rug.nl/2021-2022/catalog/course/WBMA045-05)
 
-### Tutor at Maths Beyond Limits
+### Maths Beyond Limits
 
 Maths Beyond Limits is a camp for highly skilled high school students interested in mathematics, often participants in
 the International Mathematics Olympiad. I have prepared the following courses:
@@ -46,7 +46,7 @@ the International Mathematics Olympiad. I have prepared the following courses:
 - _Probabilistic Methods_, September 2024 [[Handout](/assets/pdf/teaching/2024_mbl.pdf)]
 - _Introduction to Convex Optimization_, September 2023 [[Handout](/assets/pdf/teaching/2023_mbl.pdf)]
 
-### Tutor at the Belgian Mathematical Training Camps
+### Belgian Mathematical Training Camps
 
 The SBPMef organises mathematical training camps for high school students in Belgium to prepare them for international
 mathematical olympiads. I have prepared the following courses:
