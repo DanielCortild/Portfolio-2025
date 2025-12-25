@@ -88,6 +88,9 @@ ninja.data = [{
           section: "News",},{id: "news-️i-am-proud-to-announce-i-have-been-awarded-the-2025-khmw-jong-talent-graduation-award-for-mathematics-for-my-master-project-on-stochastic-gradient-descent",
           title: '🎖️I am proud to announce I have been awarded the 2025 KHMW Jong...',
           description: "",
+          section: "News",},{id: "news-i-am-happy-to-share-that-my-latest-work-with-meggie-marschner-and-mathias-staudigl-on-regularization-methods-for-solving-hierarchical-variational-inequalities-with-complexity-guarantees-is-available-on-arxiv",
+          title: '📝 I am happy to share that my latest work with Meggie Marschner...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
