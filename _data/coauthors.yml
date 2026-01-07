@@ -12,7 +12,7 @@
 
 "ketels":
   - firstname: [ "Lucas", "L." ]
-    url: https://scholar.google.com/citations?user=haEOiBgAAAAJ&hl=fr
+    url: https://scholar.google.com/citations?user=haEOiBgAAAAJ&hl=en
 
 "garrigos":
   - firstname: [ "Guillaume", "G." ]
@@ -20,7 +20,8 @@
 
 "marschner":
   - firstname: [ "Meggie", "M." ]
+    url: https://scholar.google.com/citations?user=0AIbjOAAAAAJ&hl=en
 
 "staudigl":
   - firstname: [ "Mathias", "M." ]
-    url: https://sites.google.com/view/mathiasstaudigl
+    url: https://scholar.google.com/citations?user=Gt5EmM0AAAAJ&hl=en
