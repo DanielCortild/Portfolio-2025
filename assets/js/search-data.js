@@ -92,7 +92,7 @@ ninja.data = [{
           title: '📝 I am happy to share that my latest work with Meggie Marschner...',
           description: "",
           section: "News",},{id: "news-our-work-on-bias-optimal-sgd-results-has-received-a-major-update-the-newest-version-is-available-on-arxiv",
-          title: '📝Our work on Bias-Optimal SGD results has received a major update. The newest...',
+          title: '📝 Our work on Bias-Optimal SGD results has received a major update. The...',
           description: "",
           section: "News",},{
         id: 'social-email',
