@@ -94,6 +94,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-on-bias-optimal-sgd-results-has-received-a-major-update-the-newest-version-is-available-on-arxiv",
           title: '📝 Our work on Bias-Optimal SGD results has received a major update. The...',
           description: "",
+          section: "News",},{id: "news-️-i-will-be-presenting-at-siam-op26-in-june-see-you-in-edinburgh-scotland",
+          title: '🗣️ I will be presenting at SIAM OP26 in June. See you in...',
+          description: "",
+          section: "News",},{id: "news-️-i-will-be-presenting-at-europt-2026-in-july-see-you-in-linz-austria",
+          title: '🗣️ I will be presenting at EUROPT 2026 in July. See you in...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
