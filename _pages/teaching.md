@@ -16,7 +16,7 @@ As a graduate teaching assistant, my responsibilities include marking assignment
 have been involved in the following courses:
 
 - <b>
-  2025-2026</b>: [Probability](https://courses.maths.ox.ac.uk/course/view.php?id=6018), [Integer Programming](https://courses.maths.ox.ac.uk/course/info.php?id=6068)
+  2025-2026</b>: [Probability](https://courses.maths.ox.ac.uk/course/view.php?id=6018), [Integer Programming](https://courses.maths.ox.ac.uk/course/info.php?id=6068), [Differential Equations 2](https://courses.maths.ox.ac.uk/course/view.php?id=6048), [Continuous Optimisation](https://courses.maths.ox.ac.uk/course/view.php?id=6141)
 
 ### University of Groningen
 
