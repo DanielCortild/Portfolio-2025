@@ -100,6 +100,9 @@ ninja.data = [{
           section: "News",},{id: "news-️-i-will-be-presenting-at-europt-2026-in-july-see-you-in-linz-austria",
           title: '🗣️ I will be presenting at EUROPT 2026 in July. See you in...',
           description: "",
+          section: "News",},{id: "news-i-am-happy-to-share-that-my-latest-work-with-coralia-cartis-on-stochastic-krasnoselskii-mann-iterations-is-available-on-arxiv",
+          title: '📝 I am happy to share that my latest work with Coralia Cartis...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
