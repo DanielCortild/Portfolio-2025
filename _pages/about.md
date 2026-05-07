@@ -23,7 +23,7 @@ announcements:
 Hi, I'm Daniel!
 
 I am a DPhil student at the [Mathematical Institute](https://www.maths.ox.ac.uk/) of
-the [University of Oxford](https://www.ox.ac.uk/) since October 2025, under
+the University of Oxford since October 2025, under
 the supervision of [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis).
 
 Previously, I obtained a BSc in Mathematics and a MSc in Applied Mathematics from
