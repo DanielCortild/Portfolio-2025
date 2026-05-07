@@ -103,6 +103,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-happy-to-share-that-my-latest-work-with-coralia-cartis-on-stochastic-krasnoselskii-mann-iterations-is-available-on-arxiv",
           title: '📝 I am happy to share that my latest work with Coralia Cartis...',
           description: "",
+          section: "News",},{id: "news-my-recent-work-with-coralia-cartis-on-curvature-based-differential-privacy-is-available-on-arxiv",
+          title: '📝 My recent work with Coralia Cartis on Curvature-Based Differential Privacy is available...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
