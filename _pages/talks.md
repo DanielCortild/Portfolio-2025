@@ -35,3 +35,19 @@ The following is a list of my most recent and upcoming talks and presentations:
 - **Workshop on Nonsmooth Optimization and Applications (NOPTA)**, Antwerpen, Belgium. April 2024. [[Abstract](https://sites.google.com/view/wnopta/poster-presentation/cortild), [Poster](/assets/pdf/presentations/2024_nopta.pdf)]
 
 - **Optimization at Bernoulli Institute Workshop**, Groningen, Netherlands. June 2023. [[Slides](/assets/pdf/presentations/2023_obi.pdf)]
+
+## Seminar Talks
+
+- **Differential Privacy Reading Group**, University of Oxford. May 2026.
+
+- **Internal Numerical Analysis Seminar**, University of Oxford. May 2026.
+
+- **Optimization Reading Group**, University of Oxford. November 2025.
+
+- **Systems, Control and Optimization Seminar**, University of Groningen. June 2025.
+
+- **Systems, Control and Optimization Seminar**, University of Groningen. March 2025.
+
+- **Systems, Control and Optimization Seminar**, University of Groningen. October 2024.
+
+- **Systems, Control and Optimization Seminar**, University of Groningen. June 2024.
