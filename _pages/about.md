@@ -31,5 +31,5 @@ the [University of Groningen](https://www.rug.nl/), where I was part of
 the [Systems, Control and Optimization group](https://www.rug.nl/research/bernoulli/groups/sco) under the supervision of
 [Juan Peypouquet](https://sites.google.com/rug.nl/peypouquet/home).
 
-**Research Interests:** Convex Optimization, Global Optimization, Fixed-Point Iterations, Computer-Aided Proofs,
+**Research Interests:** Convex Optimization, Fixed-Point Iterations, Computer-Aided Proofs,
 Stochastic Optimization, Hierarchical Optimization
