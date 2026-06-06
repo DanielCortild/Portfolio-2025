@@ -1,6 +1,12 @@
 ---
 ---
-<div class="row">
+{% assign journal_name = entry.journal | default: '' | downcase %}
+{% assign publication_type = 'publication' %}
+{% if journal_name contains 'arxiv' %}
+  {% assign publication_type = 'preprint' %}
+{% endif %}
+
+<div class="row publication-entry" data-publication-type="{{ publication_type }}" data-publication-search="{{ entry.bibtex | strip_html | escape }}">
   {% if site.enable_publication_thumbnails and (entry.abbr or entry.preview) %}
     <div class="col col-sm-2 abbr thumbnail">
       {%- if entry.abbr -%}
