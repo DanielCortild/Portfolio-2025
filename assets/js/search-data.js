@@ -106,6 +106,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-recent-work-with-coralia-cartis-on-curvature-based-differential-privacy-is-available-on-arxiv",
           title: '📝 My recent work with Coralia Cartis on Curvature-Based Differential Privacy is available...',
           description: "",
+          section: "News",},{id: "news-️-i-was-invited-to-present-at-the-4tu-ami-event-in-june-see-you-in-groningen-netherlands",
+          title: '🗣️ I was invited to present at the 4TU+.AMI Event in June. See...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
