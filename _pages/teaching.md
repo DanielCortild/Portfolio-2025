@@ -25,7 +25,7 @@ providing feedback to students.
 
 I was particularly involved in the course "Introduction to Optimization", where I co-wrote the lecture notes.
 
-- _Introduction to Optimization_, 2024-2025 [[Lecture Notes](/assets/pdf/teaching/2024_optim.pdf)]
+- _Introduction to Optimization_, 2024-2025 [[Lecture Notes](/assets/pdf/teaching/2024_RuG_Optimization_Lecture_Notes_Peypouquet_Cortild.pdf)]
 
 Below is a complete list of courses I have been involved in:
 
@@ -43,12 +43,12 @@ Below is a complete list of courses I have been involved in:
 Maths Beyond Limits is a camp for highly skilled high school students interested in mathematics, often participants in
 the International Mathematics Olympiad. I have prepared the following courses:
 
-- _Probabilistic Methods_, September 2024 [[Handout](/assets/pdf/teaching/2024_mbl.pdf)]
-- _Introduction to Convex Optimization_, September 2023 [[Handout](/assets/pdf/teaching/2023_mbl.pdf)]
+- _Probabilistic Methods_, September 2024 [[Handout](/assets/pdf/teaching/2024_MBL_Probabilistic_Cortild.pdf)]
+- _Introduction to Convex Optimization_, September 2023 [[Handout](/assets/pdf/teaching/2023_MBL_Optimization_Cortild.pdf)]
 
 ### Belgian Mathematical Training Camps
 
 The SBPMef organises mathematical training camps for high school students in Belgium to prepare them for international
 mathematical olympiads. I have prepared the following courses:
 
-- _Méthodes Probabilites_, January 2025 [[Handout](/assets/pdf/teaching/2025_sbpm.pdf)]
+- _Méthodes Probabilites_, January 2025 [[Handout](/assets/pdf/teaching/2025_SBPM_Probabilistic_Cortild.pdf)]

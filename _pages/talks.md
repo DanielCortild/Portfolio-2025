@@ -12,7 +12,7 @@ nav_order: 3
 
 The following is a list of my most recent and upcoming talks and presentations:
 
-- **23rd Conference on Advanced in Continuous Optimization (EUROPT)**, Linz, Austria. July 2026. [[Slides](/assets/pdf/presentations/2026_EUROPT_Cortild.pdf)]
+- **23rd Conference on Advanced in Continuous Optimization (EUROPT)**, Linz, Austria. July 2026.[[Slides](/assets/pdf/presentations/2026_EUROPT_Cortild.pdf)]
 
 - **4TU+.AMI Event**, Groningen, Netherlands. June 2026. [[Slides](/assets/pdf/presentations/2026_4TU+.AMI_Cortild.pdf)]
 
