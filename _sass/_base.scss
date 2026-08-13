@@ -851,6 +851,26 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+        line-height: 1.45;
+
+        .publication-award-tag {
+          display: inline-block;
+          margin-left: 0.4rem;
+          padding: 0.12rem 0.45rem;
+          border-radius: 0.35rem;
+          background-color: var(--global-highlight-color);
+          color: $white-color !important;
+          font-size: 0.72rem;
+          font-weight: 700;
+          line-height: 1.25;
+          vertical-align: 0.12rem;
+          white-space: nowrap;
+
+          &:hover {
+            background-color: var(--global-theme-color);
+            text-decoration: none;
+          }
+        }
       }
 
       .author {

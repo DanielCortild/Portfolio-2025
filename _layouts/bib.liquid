@@ -57,7 +57,14 @@
     class="{% if site.enable_publication_thumbnails and (entry.abbr or entry.preview) %}col-sm-10{% else %}col-sm-12{% endif %}"
   >
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      {{ entry.title }}
+      {% if entry.award_url %}
+        <a href="{{ entry.award_url }}" class="publication-award-tag" role="button">
+          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
+        </a>
+      {% endif %}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -195,7 +202,7 @@
 
     <!-- Links/Buttons -->
     <div class="links">
-      {% if entry.award %}
+      {% if entry.award and entry.award_url == blank %}
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
@@ -376,7 +383,7 @@
       {% endif %}
     {% endif %}
 
-    {% if entry.award %}
+    {% if entry.award and entry.award_url == blank %}
       <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
         <p>{{ entry.award | markdownify }}</p>
