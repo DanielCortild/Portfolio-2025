@@ -858,16 +858,23 @@ footer.sticky-bottom {
           margin-left: 0.4rem;
           padding: 0.12rem 0.45rem;
           border-radius: 0.35rem;
-          background-color: var(--global-highlight-color);
-          color: $white-color !important;
+          background-color: var(--global-theme-color);
+          box-shadow: inset 0 0 0 1px var(--global-theme-color);
+          color: var(--global-card-bg-color) !important;
           font-size: 0.72rem;
           font-weight: 700;
           line-height: 1.25;
+          transition:
+            background-color 0.2s ease,
+            box-shadow 0.2s ease,
+            color 0.2s ease;
           vertical-align: 0.12rem;
           white-space: nowrap;
 
           &:hover {
-            background-color: var(--global-theme-color);
+            background-color: var(--global-card-bg-color);
+            box-shadow: inset 0 0 0 1px var(--global-theme-color);
+            color: var(--global-theme-color) !important;
             text-decoration: none;
           }
         }
@@ -916,7 +923,7 @@ footer.sticky-bottom {
           }
         }
         a.award.btn {
-          border-color: var(--global-highlight-color);
+          border-color: var(--global-theme-color);
         }
       }
 
@@ -979,7 +986,7 @@ footer.sticky-bottom {
       border: dashed 1px var(--global-bg-color);
     }
     div.award.hidden.open {
-      border-color: var(--global-highlight-color);
+      border-color: var(--global-theme-color);
     }
   }
 }
