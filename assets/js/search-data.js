@@ -109,6 +109,9 @@ ninja.data = [{
           section: "News",},{id: "news-️-i-was-invited-to-present-at-the-4tu-ami-event-in-june-see-you-in-groningen-netherlands",
           title: '🗣️ I was invited to present at the 4TU+.AMI Event in June. See...',
           description: "",
+          section: "News",},{id: "news-my-recent-work-with-mathias-staudigl-juan-peypouquet-and-coralia-cartis-on-stochastic-nonconvex-bilevel-programming-is-available-on-arxiv",
+          title: '📝 My recent work with Mathias Staudigl, Juan Peypouquet and Coralia Cartis on...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
