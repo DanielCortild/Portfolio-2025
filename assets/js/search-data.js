@@ -112,6 +112,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-recent-work-with-mathias-staudigl-juan-peypouquet-and-coralia-cartis-on-stochastic-nonconvex-bilevel-programming-is-available-on-arxiv",
           title: '📝 My recent work with Mathias Staudigl, Juan Peypouquet and Coralia Cartis on...',
           description: "",
+          section: "News",},{id: "news-our-paper-stochastic-nonconvex-bilevel-optimization-improved-rates-without-rare-visit-assumption-has-been-accepted-in-neurips-2026-workshop-opt",
+          title: '📝 Our paper “Stochastic Nonconvex Bilevel Optimization: Improved Rates Without Rare-Visit Assumption” has...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
