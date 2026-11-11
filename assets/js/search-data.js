@@ -115,6 +115,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-stochastic-nonconvex-bilevel-optimization-improved-rates-without-rare-visit-assumption-has-been-accepted-in-neurips-2026-workshop-opt",
           title: '📝 Our paper “Stochastic Nonconvex Bilevel Optimization: Improved Rates Without Rare-Visit Assumption” has...',
           description: "",
+          section: "News",},{id: "news-️-i-will-be-presenting-at-the-pgmo-days-2026-in-november-see-you-in-paris-france",
+          title: '🗣️ I will be presenting at the PGMO Days 2026 in November. See...',
+          description: "",
+          section: "News",},{id: "news-my-recent-work-with-coralia-cartis-on-smoothed-analysis-in-continuous-optimization-is-available-on-arxiv",
+          title: '📝 My recent work with Coralia Cartis on Smoothed Analysis in Continuous Optimization...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
